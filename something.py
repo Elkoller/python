@@ -1,0 +1,6 @@
+print ("""
+ 
+       magic
+       dragon
+       fire
+       """)
